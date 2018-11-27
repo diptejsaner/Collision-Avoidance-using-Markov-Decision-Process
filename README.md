@@ -1,5 +1,5 @@
 # Collision-Avoidance-using-Markov-Decision-Process
-Avoiding car collisions using MDP process
+Avoiding car collisions using MDP
 
 - State space is a 2D grid with obstacle and destination locations.
 - Reward space is in the form of costs (negative rewards) for moving and collision. Destination reward is positive.
